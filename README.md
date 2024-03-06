@@ -3,7 +3,7 @@
 
 
 ```bash
-python3 delete-s3-objects-with-prefixes.py -h
+$ python3 delete-s3-objects-with-prefixes.py -h
 usage: delete-s3-objects-with-prefixes.py [-h] [--live] bucket prefixes
 
 Delete S3 objects with specific prefixes.
